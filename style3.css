@@ -40,20 +40,7 @@ nav ul li a{
     text-decoration: none;
     color: blue;
 }
-  
-.content h1{
-    font-size: 50px;
-    font-weight: 100;
-    margin-top: 10px;
-    margin-bottom: 5px;
-    color: #232d60;
-}
-  
-.content p{
-    font-size: 15px;
-    
-    color:#232d60;
-}
+
 .div input label{
     font-size: 20px;
 }
